@@ -6,7 +6,7 @@ This Prework Study Guide was created to help boot camp students get through the 
 
 ## Installation
 
-naw we ain't installing nothin'
+No installations are required.
 
 ## Usage
 
@@ -14,7 +14,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Credits
 
-ain't collaborated with nobody
+Collaboration did not take place for this project.
 
 ## License
 
